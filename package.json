@@ -9,9 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "^18",
-    "react-dom": "^18",
-    "next": "13.5.4"
+    "eslint-config-next": "^14.0.1",
+    "lucide-react": "^0.291.0",
+    "next": "^14.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.11.0",
+    "react-id-swiper": "^4.0.0",
+    "sass": "^1.69.5",
+    "swiper": "^11.0.3"
   },
   "devDependencies": {
     "autoprefixer": "^10",
