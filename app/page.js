@@ -9,12 +9,12 @@ import Stories from "./components/Stories";
 export default function Home() {
   return (
     <main className='text-white'>
-      <HomeComponent />
+      {/* <HomeComponent />
       <Hero />
       <Companies />
       <SubHero />
       <Benefits />
-      <Stories />
+      <Stories /> */}
       {/* <Slides /> */}
     </main>
   );

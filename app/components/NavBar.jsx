@@ -30,8 +30,8 @@ export default function NavBar() {
     <div
       className={`${
         scrolled
-          ? "fixed top-0 left-0 right-0 bg-white shadows text-black w-full px-[15rem] flex justify-between"
-          : "fixed top-0 left-0 right-0 bg-[#0c3245] text-white w-full px-[15rem] flex justify-between "
+          ? "fixed top-0 left-0 right-0 bg-white shadows text-black w-full px-8 lg:px-[15rem] flex justify-between"
+          : "fixed top-0 left-0 right-0 bg-[#0c3245] text-white w-full px-8 lg:px-[15rem] flex justify-between "
       }`}
     >
       <div className='flex justify-center gap-[2.5rem] items-center'>
